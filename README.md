@@ -1,2 +1,2 @@
-# sisoper
-Actividades del curso de sisoper
+# Sisoper
+Actividades del curso de sisoper.
