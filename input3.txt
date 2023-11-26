@@ -1,0 +1,6 @@
+Algorithm:
+SCAN
+Head:
+35
+sequence:
+10 22 30 40 45 55 60 75 85 95 end

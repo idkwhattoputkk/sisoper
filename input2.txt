@@ -1,0 +1,6 @@
+Algorithm:
+C-LOOK
+Head:
+45
+sequence:
+20 38 42 55 60 80 90 115 130 150 end
