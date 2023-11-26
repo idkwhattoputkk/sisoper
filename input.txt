@@ -1,6 +1,6 @@
 Algorithm:
-SSTF
+C-LOOK
 Head:
-50
+45
 sequence:
-14 37 53 65 67 98 122 124 183 end
+20 38 42 55 60 80 90 115 130 150 end
